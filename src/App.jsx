@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <>
         <Route path="/" component={Navbar}/>
-        <Route path="/" component={Home} />
+        <Route exact path="/" component={Home} />
         <ProtectedRoutes path="/Home" component={Home} />
         <Route path="/Movie" component={Movie} />
         <Route exact path="/Login" component={Login} />
