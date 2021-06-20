@@ -12,6 +12,7 @@ class App extends Component {
     return (
       <>
         <Route path="/" component={Navbar}/>
+        <ProtectedRoutes path="/" component={Home} />
         <ProtectedRoutes path="/Home" component={Home} />
         <Route path="/Movie" component={Movie} />
         <Route exact path="/Login" component={Login} />
