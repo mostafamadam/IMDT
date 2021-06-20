@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IMDT/static/css/main.8ca16e40.chunk.css",
+    "main.js": "/IMDT/static/js/main.d834c5cb.chunk.js",
+    "main.js.map": "/IMDT/static/js/main.d834c5cb.chunk.js.map",
+    "runtime-main.js": "/IMDT/static/js/runtime-main.a3e01448.js",
+    "runtime-main.js.map": "/IMDT/static/js/runtime-main.a3e01448.js.map",
+    "static/css/2.4f2bfe47.chunk.css": "/IMDT/static/css/2.4f2bfe47.chunk.css",
+    "static/js/2.ccde0272.chunk.js": "/IMDT/static/js/2.ccde0272.chunk.js",
+    "static/js/2.ccde0272.chunk.js.map": "/IMDT/static/js/2.ccde0272.chunk.js.map",
+    "static/js/3.2d65ef2e.chunk.js": "/IMDT/static/js/3.2d65ef2e.chunk.js",
+    "static/js/3.2d65ef2e.chunk.js.map": "/IMDT/static/js/3.2d65ef2e.chunk.js.map",
+    "index.html": "/IMDT/index.html",
+    "static/css/2.4f2bfe47.chunk.css.map": "/IMDT/static/css/2.4f2bfe47.chunk.css.map",
+    "static/css/main.8ca16e40.chunk.css.map": "/IMDT/static/css/main.8ca16e40.chunk.css.map",
+    "static/js/2.ccde0272.chunk.js.LICENSE.txt": "/IMDT/static/js/2.ccde0272.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/IMDT/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e01448.js",
+    "static/css/2.4f2bfe47.chunk.css",
+    "static/js/2.ccde0272.chunk.js",
+    "static/css/main.8ca16e40.chunk.css",
+    "static/js/main.d834c5cb.chunk.js"
+  ]
+}
