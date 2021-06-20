@@ -6,7 +6,7 @@ class ProtectedRoutes extends Component {
         let token = localStorage.getItem("token");
         if (token) {
             return (
-                <Route exact path={this.props.path} component={this.props.component} />
+                <Route path={this.props.path} component={this.props.component} />
             );
         } else {
             return (
